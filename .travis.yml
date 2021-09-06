@@ -1,17 +1,5 @@
-{
-  "language": "python",
-  "os": [
-    "linux",
-    "windows"
-  ],
-  "dist": "xenial",
-  "python": [
-    "3.9"
-  ],
-  "install": [
-    "pip install -r requirements-dev.txt"
-  ],
-  "script": [
-    ".flake8"
-  ]
-}
+language: python,
+python:
+    - 3.9
+install: pip install -q -r requirements-dev.txt
+script: flake8
