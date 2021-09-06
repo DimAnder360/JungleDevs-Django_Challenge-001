@@ -2,6 +2,8 @@
 
 ## Welcome to the Jungle Devs News!
 
+[![Build Status](https://app.travis-ci.com/DimAnder360/JungleDevs-Django_Challenge-001.svg?branch=main)](https://app.travis-ci.com/DimAnder360/JungleDevs-Django_Challenge-001)
+
 ### Here the instructions for running the application will be provided:
  Supports Python V. 3
 
