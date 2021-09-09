@@ -2,6 +2,8 @@
 
 ## Welcome to the Jungle Devs News!
 
+Aplicação disponível em https://jungledevs.herokuapp.com/
+
 [![Build Status](https://app.travis-ci.com/DimAnder360/JungleDevs-Django_Challenge-001.svg?branch=main)](https://app.travis-ci.com/DimAnder360/JungleDevs-Django_Challenge-001)
 [![codecov](https://codecov.io/gh/DimAnder360/JungleDevs-Django_Challenge-001/branch/main/graph/badge.svg?token=IL8WZLPAMN)](https://codecov.io/gh/DimAnder360/JungleDevs-Django_Challenge-001)
 
@@ -18,13 +20,4 @@ Memory: 2022M
 Cores: 8
 Non-Bundled Plugins: lermitage.intellij.extra.icons (1.61.0.203)
 
-To install:
-```console
-
-```
-
-To Check Code Quality:
-```console
-
-```
 
