@@ -20,31 +20,11 @@ Non-Bundled Plugins: lermitage.intellij.extra.icons (1.61.0.203)
 
 To install:
 ```console
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements-dev.txt
+
 ```
 
 To Check Code Quality:
 ```console
-flake8
+
 ```
 
-Libs:
-```
-asgiref==3.4.1
-certifi==2021.5.30
-charset-normalizer==2.0.4
-Django==3.2.7
-djangorestframework==3.12.4
-idna==3.2
-psycopg2==2.9.1
-pytz==2021.1
-requests==2.26.0
-sqlparse==0.4.1
-urllib3==1.26.6
-flake8==3.9.2
-mccabe==0.6.1
-pycodestyle==2.7.0
-pyflakes==2.3.1
-```

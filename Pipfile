@@ -17,6 +17,8 @@ urllib3 = "==1.26.6"
 pytest = "~=6.2.5"
 Django = "==3.2.7"
 flake8 = "*"
+gunicorn = "*"
+heroku = "*"
 
 [dev-packages]
 flake8 = "*"
